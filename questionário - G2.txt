@@ -11,7 +11,8 @@ namento da tela do programa.
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 R: o DBA(Database Administrator), é quem gerencia, instala, configura, atualiza e monitora o banco de dados. 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
-
+R: Ela foi criada para substituir o formato tradicional das notas fiscais, facilitando tanto o lançamento quanto a organização delas.A nota fiscal eletronica é emitida
+e armazenada eletronicamente, dispensando a impressão e os arquivos físicos, o que reduz custos.
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
 
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
