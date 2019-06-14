@@ -18,7 +18,7 @@ R: Pois assim seus códigos ficam salvos no site, você pode utilizar de qualque
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
 R: É uma questão de organização, você separada o que deve ser feito, o que está fazendo e o que já foi feito, para ter um desenvolvimento melhor e mais facilmente.
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
-
+R: Deve ser feito uma análise de requisitos para saber o que necessita para o software ser feito, a parte da programação e um design de fácil compreensão do usuário.
 10)	Explique para que serve e as principais funcionalidades do Trello
 
 11)	Explique para que serve e as principais funcionalidades do Slack.
