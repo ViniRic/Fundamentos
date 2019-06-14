@@ -3,7 +3,8 @@ R: É a parte da coleta de dados a serem usados pelo programa.
 2)	Onde podemos coletar dados para sistemas? Explique e cite exemplos.
 R: Dados enviados pelo usuário, ou pegando de outros sistemas, etc.
 3)	Explique o que é um desenvolvedor backend, frontend, e full stack;
-
+R: Backend é quem trabalha na parte dos códigos, é o que o usuário não ve, frontend é a parte do design, a parte que o usuário ve, full stack é o desenvolvedor que tem
+conhecimento em ambas áreas, seja frontend ou backend.
 4)	Qual a diferença entre frontend e designer?
 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
