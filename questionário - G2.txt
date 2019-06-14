@@ -20,7 +20,7 @@ R: É uma questão de organização, você separada o que deve ser feito, o que 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
 R: Deve ser feito uma análise de requisitos para saber o que necessita para o software ser feito, a parte da programação e um design de fácil compreensão do usuário.
 10)	Explique para que serve e as principais funcionalidades do Trello
-
+R: É um sistema de quadro virtual para o gerenciamento de tarefas, permite a criação de diversos quadros, nos quais poremos criar quantas colunas quisermos.
 11)	Explique para que serve e as principais funcionalidades do Slack.
 
 12)	Explique para que serve e as principais funcionalidades do Github.
