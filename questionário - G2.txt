@@ -22,5 +22,6 @@ R: Deve ser feito uma análise de requisitos para saber o que necessita para o s
 10)	Explique para que serve e as principais funcionalidades do Trello
 R: É um sistema de quadro virtual para o gerenciamento de tarefas, permite a criação de diversos quadros, nos quais poremos criar quantas colunas quisermos.
 11)	Explique para que serve e as principais funcionalidades do Slack.
-
+R: O Slack é um aplicativo de comunicação que oferece uma plataforma na qual equipes podem se comunicar rapidamente com mensagens de texto e voz, além de permitir
+o envio de vídeos e documentos, mantendo tudo organizado e centralizado
 12)	Explique para que serve e as principais funcionalidades do Github.
