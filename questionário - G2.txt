@@ -6,7 +6,8 @@ R: Dados enviados pelo usuário, ou pegando de outros sistemas, etc.
 R: Backend é quem trabalha na parte dos códigos, é o que o usuário não ve, frontend é a parte do design, a parte que o usuário ve, full stack é o desenvolvedor que tem
 conhecimento em ambas áreas, seja frontend ou backend.
 4)	Qual a diferença entre frontend e designer?
-
+R: Design é a "beleza" do site, do programa em si, já frontend é quem cuida de toda a parte que o usuário utiliza do site, não só a questão da beleza, e sim o funcio-
+namento da tela do programa. 
 5)	Quem é o responsável por manter um servidor de banco de dados e quais são suas obrigações?
 
 6)	Que dados uma nota fiscal eletrônica possui? Cite todos e o objetivo de ter esses dados.
