@@ -14,7 +14,7 @@ R: o DBA(Database Administrator), é quem gerencia, instala, configura, atualiza
 R: Ela foi criada para substituir o formato tradicional das notas fiscais, facilitando tanto o lançamento quanto a organização delas.A nota fiscal eletronica é emitida
 e armazenada eletronicamente, dispensando a impressão e os arquivos físicos, o que reduz custos.
 7)	Quais os benefícios em versionar código fonte em ambientes como o GitHub?
-
+R: Pois assim seus códigos ficam salvos no site, você pode utilizar de qualquer máquina, caso a sua máquina queime ou algo do tipo, você nao perde seus projetos.
 8)	Como funciona o fluxo de trabalho e quais os benefícios em ter o trabalho dividido nas seguintes etapas: a fazer, fazendo, feito.
 
 9)	Como você imagina que seja a criação e desenvolvimento de um software? Explique detalhadamente cada atividade e porque ela acontece.
